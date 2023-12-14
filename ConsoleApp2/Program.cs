@@ -6,5 +6,4 @@ for (int i = 0; i < nums.Count; i++)
 {
     if (nums[i] % 2 == 0) nums.RemoveAt(i);
 }
-
-foreach(int i in nums) Console.WriteLine(i);
+File.WriteAllText(path, String.Join(' ', nums));
