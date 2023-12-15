@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8y2uKIaOSflo/EL1q0OYYU2+/Rk3jdkT61lNSWZyEV0hI3BwQD1GKQXmc41G9VYRGjO0UE1RbLnyQH0Pvpn4Jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gr624_shvval\\RiderProjects\\Diary\\JsonManagerLibrary\\JsonManagerLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gr624_shvval\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

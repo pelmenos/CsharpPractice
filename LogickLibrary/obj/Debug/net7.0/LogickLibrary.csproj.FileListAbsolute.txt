@@ -1,0 +1,15 @@
+C:\Users\gr624_shvval\RiderProjects\Diary\LogickLibrary\bin\Debug\net7.0\LogickLibrary.deps.json
+C:\Users\gr624_shvval\RiderProjects\Diary\LogickLibrary\bin\Debug\net7.0\LogickLibrary.dll
+C:\Users\gr624_shvval\RiderProjects\Diary\LogickLibrary\bin\Debug\net7.0\LogickLibrary.pdb
+C:\Users\gr624_shvval\RiderProjects\Diary\LogickLibrary\obj\Debug\net7.0\LogickLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr624_shvval\RiderProjects\Diary\LogickLibrary\obj\Debug\net7.0\LogickLibrary.AssemblyInfoInputs.cache
+C:\Users\gr624_shvval\RiderProjects\Diary\LogickLibrary\obj\Debug\net7.0\LogickLibrary.AssemblyInfo.cs
+C:\Users\gr624_shvval\RiderProjects\Diary\LogickLibrary\obj\Debug\net7.0\LogickLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gr624_shvval\RiderProjects\Diary\LogickLibrary\obj\Debug\net7.0\LogickLibrary.dll
+C:\Users\gr624_shvval\RiderProjects\Diary\LogickLibrary\obj\Debug\net7.0\refint\LogickLibrary.dll
+C:\Users\gr624_shvval\RiderProjects\Diary\LogickLibrary\obj\Debug\net7.0\LogickLibrary.pdb
+C:\Users\gr624_shvval\RiderProjects\Diary\LogickLibrary\obj\Debug\net7.0\ref\LogickLibrary.dll
+C:\Users\gr624_shvval\RiderProjects\Diary\LogickLibrary\bin\Debug\net7.0\JsonManagerLibrary.dll
+C:\Users\gr624_shvval\RiderProjects\Diary\LogickLibrary\bin\Debug\net7.0\JsonManagerLibrary.pdb
+C:\Users\gr624_shvval\RiderProjects\Diary\LogickLibrary\obj\Debug\net7.0\LogickLibrary.csproj.AssemblyReference.cache
+C:\Users\gr624_shvval\RiderProjects\Diary\LogickLibrary\obj\Debug\net7.0\LogickLibrary.csproj.CopyComplete

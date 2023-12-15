@@ -1,0 +1,12 @@
+C:\Users\gr624_shvval\RiderProjects\Diary\JsonManagerLibrary\bin\Debug\net7.0\JsonManagerLibrary.deps.json
+C:\Users\gr624_shvval\RiderProjects\Diary\JsonManagerLibrary\bin\Debug\net7.0\JsonManagerLibrary.dll
+C:\Users\gr624_shvval\RiderProjects\Diary\JsonManagerLibrary\bin\Debug\net7.0\JsonManagerLibrary.pdb
+C:\Users\gr624_shvval\RiderProjects\Diary\JsonManagerLibrary\obj\Debug\net7.0\JsonManagerLibrary.csproj.AssemblyReference.cache
+C:\Users\gr624_shvval\RiderProjects\Diary\JsonManagerLibrary\obj\Debug\net7.0\JsonManagerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr624_shvval\RiderProjects\Diary\JsonManagerLibrary\obj\Debug\net7.0\JsonManagerLibrary.AssemblyInfoInputs.cache
+C:\Users\gr624_shvval\RiderProjects\Diary\JsonManagerLibrary\obj\Debug\net7.0\JsonManagerLibrary.AssemblyInfo.cs
+C:\Users\gr624_shvval\RiderProjects\Diary\JsonManagerLibrary\obj\Debug\net7.0\JsonManagerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gr624_shvval\RiderProjects\Diary\JsonManagerLibrary\obj\Debug\net7.0\JsonManagerLibrary.dll
+C:\Users\gr624_shvval\RiderProjects\Diary\JsonManagerLibrary\obj\Debug\net7.0\refint\JsonManagerLibrary.dll
+C:\Users\gr624_shvval\RiderProjects\Diary\JsonManagerLibrary\obj\Debug\net7.0\JsonManagerLibrary.pdb
+C:\Users\gr624_shvval\RiderProjects\Diary\JsonManagerLibrary\obj\Debug\net7.0\ref\JsonManagerLibrary.dll
