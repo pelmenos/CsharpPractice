@@ -1,0 +1,15 @@
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\API\bin\Debug\net7.0\API.deps.json
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\API\bin\Debug\net7.0\API.dll
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\API\bin\Debug\net7.0\API.pdb
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\API\obj\Debug\net7.0\API.dll
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\API\obj\Debug\net7.0\refint\API.dll
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\API\obj\Debug\net7.0\API.pdb
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\API\bin\Debug\net7.0\Default.dll
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\API\bin\Debug\net7.0\Default.pdb
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\API\obj\Debug\net7.0\API.csproj.CopyComplete

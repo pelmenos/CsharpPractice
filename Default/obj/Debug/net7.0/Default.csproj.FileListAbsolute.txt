@@ -1,0 +1,11 @@
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\Default\bin\Debug\net7.0\Default.deps.json
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\Default\bin\Debug\net7.0\Default.dll
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\Default\bin\Debug\net7.0\Default.pdb
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\Default\obj\Debug\net7.0\Default.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\Default\obj\Debug\net7.0\Default.AssemblyInfoInputs.cache
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\Default\obj\Debug\net7.0\Default.AssemblyInfo.cs
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\Default\obj\Debug\net7.0\Default.csproj.CoreCompileInputs.cache
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\Default\obj\Debug\net7.0\Default.dll
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\Default\obj\Debug\net7.0\refint\Default.dll
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\Default\obj\Debug\net7.0\Default.pdb
+C:\Users\gr624_shvval\RiderProjects\WheatherApp\Default\obj\Debug\net7.0\ref\Default.dll

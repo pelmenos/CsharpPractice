@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PHbtonXUHbrwTIIYMi8ad/D4yOk3vEOkGcZSVldq+C8+vSbk2vnRehbrgqt/0f7V2h5nPUxzS743IApPzxq4oA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gr624_shvval\\RiderProjects\\WheatherApp\\Main\\Main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gr624_shvval\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
