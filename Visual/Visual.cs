@@ -13,7 +13,7 @@ class Visual
     {
         Console.Write(label + ": ");
         string? answer = Console.ReadLine();
-        while (required && answer == null)
+        while (required && answer == "")
         {
             Console.Write(label + ": ");
             answer = Console.ReadLine();
