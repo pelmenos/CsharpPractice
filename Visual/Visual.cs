@@ -66,7 +66,7 @@ class Visual
         string value = column != "deadline" ? GetUserInput("Новое значение") : GetDateInput("Новая дата");
         data[column] = value;
         
-        column = GetUserInput("Изменить что-то ещё(Enter если нет)");
+        column = GetUserInput("Изменить что-то ещё(Enter если нет)", false);
         while (column != "")
         {
             value = column != "deadline" ? GetUserInput("Новое значение") : GetDateInput("Новая дата");
